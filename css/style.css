@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.container{
+    width: 80%;
+    margin:auto;
+}
+/* Header start  */
+.header{
+    background: #2C3E50;
+    color:#fff;
+    padding: 15px 0;
+}
+
+.header .logo{
+    float: left;
+    padding: 15px;
+}
+.header .menu {
+    float: right;
+}
+.header .menu ul li{
+    float: left;
+    list-style: none;
+    padding: 15px;
+    background: red;
+    font-size: 1.2em;
+}
+/* Header end  */
+
+/* Start  */
+.start{
+    text-align: center;
+    height: 100vh;
+    background: #1ABC9C;
+    color:#fff;
+    padding-top: 50px;
+}
+.start h1{
+    font-size: 4em;
+    margin:15px 0;
+}
+.start i{
+    margin-bottom:20px;
+}
+.start img{
+    width: 15rem;
+}
+.start p{
+    font-size: 1.3em;
+    font-weight:700;
+}
+
+/* Start end  */
+
+/* Portfolio  start */
+
+.portfolio{
+    padding: 5em 0;
+}
+.portfolio .port-item{
+    width: 33.333%;
+    float: left;
+    padding: 15px;
+}
+.portfolio .port-item img{
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.portfolio .port-header{
+    text-align: center;
+    margin: 25px 0;
+}
+/* Portfolio  end */

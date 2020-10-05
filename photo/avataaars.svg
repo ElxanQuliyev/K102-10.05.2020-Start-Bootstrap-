@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 264 280" style="enable-background:new 0 0 264 280;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E6E6;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#2C3E50;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#D0C6AC;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#EDB98A;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.1;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st6{opacity:0.6;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.16;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.7;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FF4F6D;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.6;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#28354B;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#4A312C;}
+</style>
+<desc>Created with getavataaars.com</desc>
+<g>
+	<g transform="translate(-825.000000, -1100.000000)">
+		<g transform="translate(825.000000, 1100.000000)">
+			<g id="Circle" transform="translate(12.000000, 40.000000)">
+				<g id="Circle-Background">
+					<circle class="st0" cx="-26.5" cy="120.5" r="120"/>
+				</g>
+				<g>
+					<rect x="-146.5" y="0.5" class="st1" width="240" height="240"/>
+				</g>
+			</g>
+			<g id="Mask">
+			</g>
+			<g id="Avataaar">
+				<g id="Body" transform="translate(32.000000, 36.000000)">
+					<g>
+						<path class="st2" d="M-22.5,145.1v18.4h4l0,0c39.8,0,72,32.2,72,72v9h-200v-9c0-39.8,32.2-72,72-72l0,0h4v-18.4
+							c-17.2-8.2-29.6-24.9-31.7-44.7c-5.8-0.8-10.3-5.8-10.3-11.9v-14c0-5.9,4.3-10.9,10-11.8v-6.2l0,0c0-30.9,25.1-56,56-56l0,0
+							l0,0c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9C7.1,120.2-5.3,136.9-22.5,145.1z"/>
+					</g>
+					<g>
+						<g id="Color" transform="translate(-32.000000, 0.000000)">
+							<rect x="-146.5" y="0.5" class="st3" width="264" height="244"/>
+						</g>
+					</g>
+					<path id="Neck-Shadow" class="st4" d="M9.5,79.5v23c0,30.9-25.1,56-56,56s-56-25.1-56-56v-23v15c0,30.9,25.1,56,56,56
+						s56-25.1,56-56V79.5z"/>
+				</g>
+				<g transform="translate(0.000000, 170.000000)">
+					<g id="Clothes">
+						<path class="st0" d="M19.5,29.8c37,3,66,34,66,71.8v8.9h-200v-8.9c0-38.1,29.6-69.3,67-71.9c0,0.4,0,0.7,0,1.1
+							c0,11.9,15,21.5,33.5,21.5s33.5-9.6,33.5-21.5C19.5,30.5,19.5,30.1,19.5,29.8z"/>
+					</g>
+					<g>
+						<rect x="-146.5" y="0.5" class="st5" width="264" height="110"/>
+					</g>
+					<g id="Shadowy" class="st6">
+						<g transform="translate(92.000000, 4.000000)">
+							<ellipse class="st7" cx="-106" cy="28.3" rx="39.6" ry="26.9"/>
+						</g>
+					</g>
+				</g>
+				<g id="Face" transform="translate(76.000000, 82.000000)">
+					<g transform="translate(2.000000, 52.000000)">
+						<g id="Mouth">
+							<path class="st8" d="M-111.4,15.6c1.1,9.5,9.1,16.9,18.9,16.9s17.9-7.4,18.9-17c0.1-0.8-0.8-2-1.8-2c-14.9,0-26.3,0-34,0
+								C-110.5,13.5-111.5,14.7-111.4,15.6z"/>
+						</g>
+						<path id="Teeth" class="st5" d="M-102.5,2.5h21c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5h-21c-2.8,0-5-2.2-5-5v-6
+							C-107.5,4.7-105.3,2.5-102.5,2.5z"/>
+						<g id="Tongue">
+							<g transform="translate(38.000000, 24.000000)">
+								<circle class="st9" cx="-135.5" cy="11.5" r="11"/>
+								<circle class="st9" cx="-125.5" cy="11.5" r="11"/>
+							</g>
+						</g>
+					</g>
+					<g transform="translate(28.000000, 40.000000)">
+						<path id="Nose" class="st7" d="M-130.5,8.5c0,4.4,5.4,8,12,8l0,0c6.6,0,12-3.6,12-8"/>
+					</g>
+					<g transform="translate(0.000000, 8.000000)">
+						<path id="Squint" class="st10" d="M-130.3,22.9c1.8-3.8,6-6.4,10.8-6.4s9,2.6,10.8,6.4c0.6,1.1-0.2,2-1,1.4
+							c-2.5-2.1-5.9-3.4-9.8-3.4c-3.7,0-7.1,1.2-9.6,3.2C-130,24.8-130.9,24.1-130.3,22.9z"/>
+						<path class="st10" d="M-72.3,22.9c1.8-3.8,6-6.4,10.8-6.4s9,2.6,10.8,6.4c0.6,1.1-0.2,2-1,1.4c-2.5-2.1-5.9-3.4-9.8-3.4
+							c-3.7,0-7.1,1.2-9.6,3.2C-72,24.8-72.9,24.1-72.3,22.9z"/>
+					</g>
+					<g>
+						<path id="Eyebrow" class="st10" d="M-120,6.6c-5.8,0.3-15.2,4.5-15,10.3c0,0.2,0.3,0.3,0.4,0.1c2.8-3,22.3-5.9,29.2-4.4
+							c0.6,0.1,1.1-0.5,0.7-0.9C-108,8-114.8,6.4-120,6.6"/>
+						<path class="st10" d="M-60,6.6c5.8,0.3,15.2,4.5,15,10.3c0,0.2-0.3,0.3-0.4,0.1c-2.8-3-22.3-5.9-29.2-4.4
+							c-0.6,0.1-1.1-0.5-0.7-0.9C-72,8-65.2,6.4-60,6.6"/>
+					</g>
+				</g>
+				<g id="Top">
+					<g>
+						<g transform="translate(-1.000000, 0.000000)">
+							<g id="Short-Hair">
+								<path class="st11" d="M37.2,39.4c5.4-5,6.7-15,3.6-21.5c-3.8-8-11.4-9-18.7-5.5C15.2,15.7,9,16.8,1.5,15.2
+									c-7.3-1.5-14.1-4.3-21.6-4.7c-12.4-0.7-24.4,3.9-32.8,13.1c-1.6,1.8-2.9,3.8-4.1,5.8c-1,1.6-2.1,3.4-2.5,5.3
+									c-0.2,0.9,0.2,3.1-0.3,3.8c-0.5,0.8-2.3,1.5-3.1,2.1c-1.6,1.2-2.9,2.5-4.2,4c-2.7,3.2-4.1,6.6-5.4,10.6
+									c-4.1,13.2-4.5,29,0.9,42c0.7,1.7,2.9,5.4,4.2,1.6c0.3-0.7-0.3-3.2-0.3-3.9c0-2.7,1.5-20.7,8-30.8c2.1-3.3,12-15.6,14-15.7
+									c1.1,1.7,11.9,12.5,39.9,11.2c12.7-0.6,22.4-6.3,24.7-8.7c1,5.5,13,13.8,14.8,17.2c5.3,9.8,6.4,30.3,8.4,30.3
+									s3.5-5.2,3.9-6.2c3.1-7.4,3.6-16.6,3.3-24.6C49,57.5,44.8,46.4,37.2,39.4z"/>
+							</g>
+							<g>
+								<g transform="translate(0.000000, 0.000000) ">
+									<rect x="-146.5" y="0.5" class="st12" width="264" height="280"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
